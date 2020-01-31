@@ -1,7 +1,7 @@
 ---
 layout: page
 title: WhoAmI
-permalink: /WhoAmI/
+permalink: /about/
 ---
 
 ## Hello there. 
