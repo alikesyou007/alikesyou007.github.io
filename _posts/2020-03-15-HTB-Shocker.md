@@ -49,7 +49,7 @@ It was an awesome write-up on the vuln and helped me to understand how to get th
   
 ![SS_Exploit](/images/Shockerexploit.png)
 
-I first attempted to see if I could get to the box via curl. Once I was able to successfuly get in, I went for the reverse shell and got it
+I first attempted to see if I could get to the box via curl. Once I was able to successfuly get in, I went for the reverse shell and got it.
 
 Post-Exploitation
 ======
